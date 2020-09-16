@@ -3,13 +3,11 @@ This is a largely unorganized list of twitter threads relating to r or econometr
 
 | Name | Author | 
 | -- | -- | 
-| [Differential timing estimator for the causal effects of policies that turn on and then off in different units at different times?](https://twitter.com/brianmikedillon/status/1291552019250110464) | 
-Brian Dillon | 
+| [Differential timing estimator for the causal effects of policies that turn on and then off in different units at different times?](https://twitter.com/brianmikedillon/status/1291552019250110464) | Brian Dillon | 
 | [#rstats packages for exploratory data analysis](https://twitter.com/healthandstats/status/1290865560008368128) | Tyson Barrett |
 | [Bootstrapping and statistical inference](https://twitter.com/grant_mcdermott/status/1175576565863702528) | Grant McDermott |
 | [Simulation for Power Analysis](https://twitter.com/nickchk/status/1290060090976788480) | Nick Huntington-Klein |
-| [Summary of IV methods in applied work](https://twitter.com/dlmillimet/status/1289517891436462087) | 
-Daniel Millimet |
+| [Summary of IV methods in applied work](https://twitter.com/dlmillimet/status/1289517891436462087) |  Daniel Millimet |
 | [Programming camp syllabus](https://twitter.com/ashdgandhi/status/1288912127541907456) | Ashvin Gandhi |
 | [Robustness Tests: What, Why, and How](http://nickchk.com/robustness.html) | Nick Huntington-Klein |
 | [Writing tip about robustness checks](https://twitter.com/ArielOrtizBobea/status/1256254879770775555) | Ariel Ortiz-Bobea |
@@ -19,8 +17,7 @@ Daniel Millimet |
 
 | Name | Notes | 
 | -- | -- | 
-| [Synthetic control methods](https://twitter.com/PossebomVitor/status/1290068395610771457) | 
-Vitor Possebom and various authors |
+| [Synthetic control methods](https://twitter.com/PossebomVitor/status/1290068395610771457) | Vitor Possebom and various authors |
 | [What non-law enforcement policies/programs have been shown specifically to reduce violent crime?](https://twitter.com/annalilharvey/status/1295748316035194881) | Anna Harvey and various authors | 
 | [Latent Dirichlet Analysis of Categorical Survey Responses](https://www.tandfonline.com/doi/abs/10.1080/07350015.2020.1802285?journalCode=ubes20) | Evan Munro and Serena Ng |
 | [Difference in differemce estimation under non parallel trends](https://www.ruhr-uni-bochum.de/imperia/md/content/mathematik3/publications/dette_schumann2020.pdf) | HOLGER DETTE AND MARTIN SCHUMANN |
